@@ -14,5 +14,5 @@
 # لینک‌های مفید
 + [پردازش زبان فارسی در پایتون](http://www.sobhe.ir/hazm)
 + [پیکره فارسی همشهری](http://ece.ut.ac.ir/dbrg/hamshahri/fadownload.html)
-+ [یک کد نمونه از خوشه‌بندی به روش k-means](http://scikit-learn.org/stable/auto_examples/document_clustering.html)
++ [یک نمونه کد از K-Means](http://scikit-learn.org/stable/auto_examples/document_clustering.html)
 + [راهنمایی برای استخراج ویژگی از متن زبان طبیعی](http://pyevolve.sourceforge.net/wordpress/?p=1589)
