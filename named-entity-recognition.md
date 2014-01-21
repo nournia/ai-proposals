@@ -17,4 +17,5 @@
 + [تشخیص موجودیت‌های نام‌دار، پروژه درس هوش مصنوعی نیمسال دوم ۸۹-۸۸ دانشگاه علم و صنعت](http://bayanbox.ir/id/6189680504542343855?download)
 + [تشخیص موجودیت‌های اسمی در متن، پروژه درس هوش مصنوعی نیمسال اول ۹۲-۹۱ دانشگاه علم و صنعت](http://bayanbox.ir/id/1685090304266467232?download)
 + [پردازش زبان فارسی در پایتون](http://www.sobhe.ir/hazm)
-+ 
++ [Named Entity Recognition with NLTK](http://nltk.org/book/ch07.html#named_entity_recognition_index_term)
++ [کتابخانه ابزار یادگیری ماشین برای پایتون](http://scikit-learn.org/stable/)
