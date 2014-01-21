@@ -10,7 +10,7 @@
 # مراجع
 + Ebbesson, Magnus, and Christopher Issal. "Document Clustering." (2010).
 + Berry, Michael W., ed. Survey of Text Mining I: Clustering, Classification, and Retrieval. Vol. 1. Springer, 2004.
-+ [م.ایمانی، خوشه‌بندی متون فارسی، پایان‌نامه کارشناسی، داشگاه علم و صنعت ایران، ۱۳۹۱]( http://bayanbox.ir/id/8155819707974834975)
++ [م.ایمانی، خوشه‌بندی متون فارسی، پایان‌نامه کارشناسی، داشگاه علم و صنعت ایران، ۱۳۹۱](http://bayanbox.ir/id/8155819707974834975?download)
 
 # لینک‌های مفید
 + [پردازش زبان فارسی در پایتون](http://www.sobhe.ir/hazm)
