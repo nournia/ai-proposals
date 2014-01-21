@@ -6,7 +6,7 @@
 
 ## آزمایش‌ها
 
-## ارجاع‌ها
+## مراجع
 
 ## لینک‌های مفید
 + [How to write a spelling corrector](http://norvig.com/spell-correct.html)
