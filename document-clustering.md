@@ -8,9 +8,9 @@
 # آزمایش‌ها
 
 # مراجع
-+ Karimi, Sarvnaz, Falk Scholer, and Andrew Turpin. "Machine transliteration survey." ACM Computing Surveys (CSUR) 43.3     (2011): 17.
++ Ebbesson, Magnus, and Christopher Issal. "Document Clustering." (2010).
 + Berry, Michael W., ed. Survey of Text Mining I: Clustering, Classification, and Retrieval. Vol. 1. Springer, 2004.
-+ [م.ایمانی، خوشه‌بندی متون فارسی، پایان‌نامه کارشناسی، داشگاه علم و صنعت ایران، ۱۳۹۱](http://bayanbox.ir/id/8155819707974834975?download)
++ [م.ایمانی، خوشه‌بندی متون فارسی، پایان‌نامه کارشناسی، داشگاه علم و صنعت ایران، ۱۳۹۱](http://bayanbox.ir/id/8155819707974834975)
 
 # لینک‌های مفید
 + [پردازش زبان فارسی در پایتون](http://www.sobhe.ir/hazm)
