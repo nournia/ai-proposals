@@ -7,6 +7,10 @@
 
 ![تصویر محیط](https://www.dropbox.com/s/h26izmljoijtpzu/Cake_problem.PNG)
 
+# تصویر محیط
+
+<img src="https://www.dropbox.com/s/h26izmljoijtpzu/Cake_problem.PNG">
+
 # مقدمه
 
 # کارهای مرتبط
