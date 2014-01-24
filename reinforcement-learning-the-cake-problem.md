@@ -1,3 +1,5 @@
+<div dir=rtl>
+
 # درست کردن کیک با استفاده از یادگیری تقویتی
 يادگيري تقويتي روشي است که در آن عامل با در نظر گرفتن حالت محيط، از بين همه اعمال ممکن يکي را انتخاب مي کند و محيط در ازاي انجام آن عمل، يک سيگنال عددي به نام پاداش به عامل باز مي گرداند.
 هدف عامل اين است که از طريق سعي و خطا سياستي را بيابد که با دنبال کردن آن به بيشترين پاداش ممکن برسد.
@@ -18,7 +20,7 @@
 # آزمایش‌ها
 
 # مراجع
-R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction. Cambridge, 
+R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction. Cambridge,
 United States of America: MIT Press, 1998.
 
 
