@@ -21,3 +21,5 @@
 + [پردازش زبان فارسی در پایتون](http://www.sobhe.ir)
 + [online Text Summarization](http://www.tools4noobs.com/summarize/)
 + [Text Summarization handbook](http://www.isi.edu/natural-language/people/hovy/papers/05Handbook-Summ-hovy.pdf)
++ [اسلایدهای خلاصه‌سازی متن درس تکنولوژی زبانی دانشگاه  سارلند](http://www.coli.uni-saarland.de/courses/LT1/2012/slides/summarization_lecture_WS1213.pdf)
++ [خلاصه‌سازی متن با استفاده از TextRank](http://joshbohde.com/blog/document-summarization)
