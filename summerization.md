@@ -13,11 +13,9 @@
 # نتیجه‌گیری و کارهای آینده
 
 # مراجع
-+Hovy, Eduard, and Chin-Yew Lin. "Automated text summarization and the SUMMARIST system." Proceedings of a workshop on held at Baltimore, Maryland: October 13-15, 1998. Association for Computational Linguistics, 1998.
-
-+Das, Dipanjan, and André FT Martins. "A survey on automatic text summarization." Literature Survey for the Language and Statistics II course at CMU 4 (2007): 192-195.
-
-+[م.عبدوس، بررسی روش‌های خلاصه‌سازی خودکار متون و پیاده‌سازی یک نمونه عملی برای زبان فارسی، پایان‌نامه کارشناسی، دانشگاه علم و صنعت ایران، ۱۳۹۲](http://bayanbox.ir/id/4450824027451101101?download) 
++ Hovy, Eduard, and Chin-Yew Lin. "Automated text summarization and the SUMMARIST system." Proceedings of a workshop on held at Baltimore, Maryland: October 13-15, 1998. Association for Computational Linguistics, 1998.
++ Das, Dipanjan, and André FT Martins. "A survey on automatic text summarization." Literature Survey for the Language and Statistics II course at CMU 4 (2007): 192-195.
++ [م.عبدوس، بررسی روش‌های خلاصه‌سازی خودکار متون و پیاده‌سازی یک نمونه عملی برای زبان فارسی، پایان‌نامه کارشناسی، دانشگاه علم و صنعت ایران، ۱۳۹۲](http://bayanbox.ir/id/4450824027451101101?download) 
 
 # لینک‌های مفید
 + [پردازش زبان فارسی در پایتون](http://www.sobhe.ir)
