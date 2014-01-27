@@ -12,4 +12,11 @@
 
 # مراجع
 + Kim, Su Nam, et al. "Automatic keyphrase extraction from scientific articles." Language Resources and Evaluation: 1-20.
+
 # لینک‌های مفید
++ [پردازش زبان فارسی در پایتون](http://www.sobhe.ir/hazm)
++ [پیکره فارسی همشهری](http://ece.ut.ac.ir/dbrg/hamshahri/fadownload.html)
++ [استخراج کلمات کلیدی، میلاد بشیری و بهناز دشتکی، پروژه درس هوش مصنوعی، دانشگاه علم و صنعت ایران، ۱۳۸۸](http://bayanbox.ir/id/468650572679207601?download)
++ [مسابقه استخراج خودکار کلمات کلیدی در زبان انگلیسی](http://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction)
++ [راهنمایی برای استخراج ویژگی از متن زبان طبیعی](http://pyevolve.sourceforge.net/wordpress/?p=1589)
++ [تحلیل سیستم یافتن خودکار کلمات کلیدی متون زبان فارسی، پروژه پیکره زبان فارسی، شورای عالی اطلاع رسانی ](http://bayanbox.ir/id/8867093588243508954?download)
