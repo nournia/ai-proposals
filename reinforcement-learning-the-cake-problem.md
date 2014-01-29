@@ -9,27 +9,18 @@
 
 ![تصویر محیط](https://www.dropbox.com/s/h26izmljoijtpzu/Cake_problem.PNG)
 
-# تصویر محیط
+## مقدمه
 
-<img src="https://www.dropbox.com/s/h26izmljoijtpzu/Cake_problem.PNG">
+## کارهای مرتبط
 
-# مقدمه
+## آزمایش‌ها
 
-# کارهای مرتبط
+## مراجع
++ R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction. Cambridge,
++ United States of America: MIT Press, 1998.
 
-# آزمایش‌ها
-
-# مراجع
-R. S. Sutton and A. G. Barto, Reinforcement Learning: An Introduction. Cambridge,
-United States of America: MIT Press, 1998.
-
-
-# لینک‌های مفید
-http://en.wikipedia.org/wiki/Reinforcement_learning
-
-https://www.dropbox.com/s/6c5q3lbppa8qaag/Value_Iteration.pdf
-
-https://www.dropbox.com/s/zi1p2jkgohjhv5b/TD_Sarsa.pdf
-
-https://www.dropbox.com/s/2elzbgh9qnym476/Performance%20Improvement%20of%20a%202D%20Soccer%20Simulation%20agent%20using%20Rainforcement%20Learning.pdf
-
+## لینک‌های مفید
++ [](http://en.wikipedia.org/wiki/Reinforcement_learning)
++ [](https://www.dropbox.com/s/6c5q3lbppa8qaag/Value_Iteration.pdf)
++ [](https://www.dropbox.com/s/zi1p2jkgohjhv5b/TD_Sarsa.pdf)
++ [](https://www.dropbox.com/s/2elzbgh9qnym476/Performance%20Improvement%20of%20a%202D%20Soccer%20Simulation%20agent%20using%20Rainforcement%20Learning.pdf)
