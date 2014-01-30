@@ -11,6 +11,5 @@
 
 ## مراجع
 
-# لینک‌های مفید
-
+## لینک‌های مفید
 + [برازش منحنی](http://en.wikipedia.org/wiki/Curve_fitting)
