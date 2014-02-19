@@ -1,15 +1,17 @@
 <div dir=rtl>
 
-# سامانه توصیه‌گر
+پیشنهاد دادن آنچه مخاطب از آن استقبال خواهد کرد، برعهده سامانه‌های توصیه‌گر است. این سامانه‌ها که امروز ما کاربر بسیاری از آنها هستیم، سعی می‌کنند از روی علاقه‌مندی‌های ما و دیگران، مثلا اینکه ما چه کتاب‌هایی را خوانده‌ایم و دیگران که علایقی مشابه ما داشته‌اند، مثلا چه کتاب‌هایی را خوانده‌اند، پیشنهاد مناسبی به ما بدهند.
 
-## مقدمه
+# مقدمه
 
-## کارهای مرتبط
+# کارهای مرتبط
 
-## آزمایش‌ها
+# آزمایش‌ها
 
-## مراجع
+# کارهای آینده
 
-## لینک‌های مفید
-+ [Machine Learning Video Lectures - Recommender Systems (Week 9)](https://class.coursera.org/ml-2012-002/lecture)
+# مراجع
+
+# پیوندهای مفید
 + [داده های ارزیابی نمونه](http://archive.ics.uci.edu/ml/datasets/Entree+Chicago+Recommendation+Data)
++ [Machine Learning Course - Recommender Systems](https://class.coursera.org/ml-003/lecture/preview)
