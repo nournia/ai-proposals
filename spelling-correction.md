@@ -17,3 +17,4 @@
 + [اصول و مبانی خطایابی املایی، پروژه درس هوش مصنوعی، دانشگاه علم و صنعت، ۱۳۸۸](http://bayanbox.ir/id/4167494434444049956?download)
 + [Natual Language Processing Course - Spelling Correction](https://class.coursera.org/nlp/lecture/preview)
 + [How to write a spelling corrector](http://norvig.com/spell-correct.html)
++ [Improved Edit Distance Based Spelling Correction](http://blog.faroo.com/2012/06/07/improved-edit-distance-based-spelling-correction/)
