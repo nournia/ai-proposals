@@ -19,4 +19,3 @@
 # پیوندهای مفید
 + [استفاده از یادگیری عمیق برای تشخیص لحن نظرات](http://nlp.stanford.edu/sentiment)
 + [Natual Language Processing Course - Sentiment Analysis](https://class.coursera.org/nlp/lecture/preview)
-
