@@ -14,6 +14,8 @@
 
 # مراجع
 1. Carlson, Andrew, et al. "Toward an Architecture for Never-Ending Language Learning." AAAI. Vol. 5. 2010.
+2. Agichtein, Eugene, and Luis Gravano. "Snowball: Extracting relations from large plain-text collections." Proceedings of the fifth ACM conference on Digital libraries. ACM, 2000.
+3. Zhu, Jun, et al. "StatSnowball: a statistical approach to extracting entity relationships." Proceedings of the 18th international conference on World wide web. ACM, 2009.
 
 # پیوندهای مفید
 + [پایگاه دانشی که به روش نیمه‌نظارتی ساخته شده](http://rtw.ml.cmu.edu)
