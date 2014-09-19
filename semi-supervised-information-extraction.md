@@ -18,6 +18,7 @@
 3. Zhu, Jun, et al. "StatSnowball: a statistical approach to extracting entity relationships." Proceedings of the 18th international conference on World wide web. ACM, 2009.
 
 # پیوندهای مفید
++ [علیرضا نوریان، "استخراج آزاد اطلاعات"، سمینار کارشناسی ارشد، دانشگاه علم و صنعت ایران، تهران، ۱۳۹۱.](https://dl.dropboxusercontent.com/u/90405495/seminar.pdf)
 + [پایگاه دانشی که به روش نیمه‌نظارتی ساخته شده](http://rtw.ml.cmu.edu)
 
 

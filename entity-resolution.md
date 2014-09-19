@@ -23,4 +23,5 @@
 4. Lin, Thomas, and Oren Etzioni. "No noun phrase left behind: detecting and typing unlinkable entities." Proceedings of the 2012 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning. Association for Computational Linguistics, 2012.
 
 # پیوندهای مفید
++ [محسن ایمانی، "ابهام زدایی و ارزیابی اطلاعات استخراج شده از متن زبان طبیعی"، سمینار کارشناسی ارشد، دانشگاه علم و صنعت ایران، تهران، ۱۳۹۲.](http://bayanbox.ir/id/3312617597143201351?download)
 + [منابع مربوط به ایجاد شبکه معنایی یاد شده](http://alchemy.cs.washington.edu/papers/kok08)

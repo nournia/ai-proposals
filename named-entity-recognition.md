@@ -5,36 +5,21 @@
 برای مثال:
 آدولف بورن، طراح، کاریکاتوریست و نقاش در شهر بودجویس از جمهوری چک به دنیا آمد.
 
-> آدولف		B-PERSON
->
-> بورن		I-PERSON
->
+> آدولف B-PERSON
+> بورن I-PERSON
 > ،
->
 > کاریکاتوریست
->
 > و
->
 > نقاش
->
 > در
->
 > شهر
->
-> بودجویس		B-LOCATION
->
+> بودجویس B-LOCATION
 > از
->
-> جمهوری		B-LOCATION
->
-> چک	I-LOCATION
->
+> جمهوری B-LOCATION
+> چک I-LOCATION
 > به
->
 > دنیا
->
 > آمد
->
 > .
 
 در این پژوهش روش‌های تضحیص خودکار موجودیت‌های نام‌دار در متن معرفی شده و یکی از آن‌ها برای زبان فارسی پیاده‌سازی و آزمایش خواهد شد.
@@ -48,9 +33,9 @@
 # کارهای آینده
 
 # مراجع
-+ Jurafsky, Daniel, and James H. Martin. 2009. Speech and Language Processing: An Introduction to Natural Language Processing, Speech Recognition, and Computational Linguistics. 2nd edition. Prentice-Hall.
-+ Nadeau, David, and Satoshi Sekine. "A survey of named entity recognition and classification." Lingvisticae Investigationes 30.1 (2007): 3-26.
-+ M. Asgari Bidhendi, et al., "Extracting person names from ancient Islamic Arabic texts", in Proceedings of LREC-Rel, pp. 1-6, 2012.
+1. Jurafsky, Daniel, and James H. Martin. 2009. Speech and Language Processing: An Introduction to Natural Language Processing, Speech Recognition, and Computational Linguistics. 2nd edition. Prentice-Hall.
+2. Nadeau, David, and Satoshi Sekine. "A survey of named entity recognition and classification." Lingvisticae Investigationes 30.1 (2007): 3-26.
+3. M. Asgari Bidhendi, et al., "Extracting person names from ancient Islamic Arabic texts", in Proceedings of LREC-Rel, pp. 1-6, 2012.
 + پونه سادات مرتضوی، مهرنوش شمس فرد، "شناسایی موجودیت های نام دار در متون فارسی"، پانزدهمین کنفرانس بین المللی سالانه انجمن کامپیوتر ایران، 1388
 
 # پیوندهای مفید
