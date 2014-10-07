@@ -39,5 +39,7 @@
 
 مقالات مرتبط در این زمینه را می‌توانید از این [مقاله](http://www.aclweb.org/anthology/D10-1056.pdf)
 بیابید
+
+
 برای یادگیری الگوریتم فوروارد بک‌وارد
 http://www.cs.columbia.edu/~mcollins/fb.pdf
